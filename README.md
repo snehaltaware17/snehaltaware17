@@ -69,8 +69,6 @@
 - Advanced Python
 - Data Analytics
 - Machine Learning
-- SQL
-- Power BI
 - Python Libraries for Data Science
 
 ---
